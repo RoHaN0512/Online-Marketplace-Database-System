@@ -1,7 +1,7 @@
 # Online Marketplace Database System
 
 This repository contains a complete SQL-based database system designed for an online marketplace.  
-It was developed as part of my Master's coursework and demonstrates skills in database design, SQL programming, data analytics, and performance optimization.
+It was developed to demonstrate skills in database design, SQL programming, data analytics, and performance optimization.
 
 ---
 
